@@ -1,0 +1,15 @@
+<rss>
+    <channel>
+        <item>
+            <title>Weberty</title>
+            <idade>22</idade>
+        </item>
+    </channel>
+
+    <channel2>
+        <item>
+            <title>Pedro</title>
+            <idade>23</idade>
+        </item>
+    </channel2>
+</rss>
